@@ -32,6 +32,9 @@ then run the server
 
     python3 server.py
     
+    
+as the victim scans the qr on the fake website, whatsapp web on the browser spawned
+by the grabber will be connected to the victim's number.
 
 ## Before usage:
  - change the last line of the server.py script to fit your needs
