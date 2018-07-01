@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.log
+hacked
+.DS_Store
+.idea
